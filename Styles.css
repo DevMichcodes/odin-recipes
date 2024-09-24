@@ -34,3 +34,8 @@ a{
      padding: 20px;
 
 }
+.logo{
+    /**border: 2px solid black;**/
+    margin: 0 20px 0 1100px;
+    padding: 4px 2px;
+}
