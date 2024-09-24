@@ -1,3 +1,19 @@
+html{
+    background-color: orange;
+}
 h1 {
     color: maroon;
+}
+body{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+    border: 20px black;
 }
