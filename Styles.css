@@ -40,3 +40,7 @@ a{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+.logo-image{
+    display: block;
+    margin: -40px 10px 10px 80px;
+}
