@@ -35,7 +35,8 @@ a{
 
 }
 .logo{
-    /**border: 2px solid black;**/
-    margin: 0 20px 0 1100px;
-    padding: 4px 2px;
+    text-align: left;
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
