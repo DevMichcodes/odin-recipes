@@ -37,14 +37,8 @@ a{
     
         
 }
-.home_navigation{
-    background-color: maroon;
-     margin: 0 1100px 0 20px;
-     border: 2px solid black;
-     border-radius: 100%;
-     padding: 20px;
 
-}
+
 .logo{
     text-align: left;
     font-style: oblique;
@@ -75,4 +69,16 @@ a{
 .riceimages{
     border-radius: 40%;
     
+}
+.home_navigation{
+    /* background-color: maroon;
+      margin: 0 1100px 0 20px;
+      border: 2px solid black;
+      padding: 20px;*/
+      text-align: end;
+      
+} 
+.navigate {
+    border-radius: 8px;
+    border: 6px solid beige;
 }
