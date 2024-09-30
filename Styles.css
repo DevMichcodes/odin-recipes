@@ -82,3 +82,23 @@ a{
     border-radius: 8px;
     border: 6px solid beige;
 }
+
+.chapatirecipes{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    width: 300px;
+    /*flex-wrap: wrap;*/
+}
+.whitechapati, .brownchapati{
+    border: 20px solid beige;
+    width: 500px;
+    flex: auto;
+    /*flex-wrap: wrap;*/
+    padding: 20px;
+}
+.chapatis{
+    border-radius: 40%;
+    
+}
