@@ -83,7 +83,7 @@ a{
     border: 6px solid beige;
 }
 
-.chapatirecipes{
+.chapatirecipes , .potatoes{
     box-sizing: border-box;
     display: flex;
     justify-content: space-between;
@@ -91,14 +91,14 @@ a{
     width: 300px;
     /*flex-wrap: wrap;*/
 }
-.whitechapati, .brownchapati{
+.whitechapati, .brownchapati , .friedpotatoes , .mashedpotatoes{
     border: 20px solid beige;
-    width: 500px;
+    width: 400px;
     flex: auto;
     /*flex-wrap: wrap;*/
     padding: 20px;
 }
-.chapatis{
+.chapatis , .potatoimage{
     border-radius: 40%;
     
 }
