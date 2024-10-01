@@ -15,13 +15,14 @@ a{
     text-decoration: none;
     font-size: x-large;
     font-weight: bold;
+    color: yellow;
 }
 .recipes ul{
     display: flex;
     justify-content: start;
-    align-items: center;
-    gap:30px;
-    /*flex-direction: column;*/
+    align-items: flex-start;
+    gap:50px;
+    flex-direction: column;
 }
 .main_link a{
    /** box-sizing: border-box;
@@ -30,7 +31,7 @@ a{
    
     **/
     height: 50px;
-    background-color: crimson;
+    background-color: dodgerblue;
     flex: auto;
     padding: 20px;
     border: 2px solid maroon;
@@ -102,4 +103,8 @@ a{
 .chapatis , .potatoimage{
     border-radius: 40%;
     
+}
+.duckimage{
+    margin-right: 10px;
+    margin-top: -250px;
 }
