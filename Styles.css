@@ -18,9 +18,10 @@ a{
 }
 .recipes ul{
     display: flex;
-    justify-content: space-around;
+    justify-content: start;
     align-items: center;
-    gap: 8px;
+    gap:30px;
+    /*flex-direction: column;*/
 }
 .main_link a{
    /** box-sizing: border-box;
@@ -29,7 +30,7 @@ a{
    
     **/
     height: 50px;
-    background-color: maroon;
+    background-color: crimson;
     flex: auto;
     padding: 20px;
     border: 2px solid maroon;
